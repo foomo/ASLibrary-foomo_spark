@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<design>
+	<namespaces>
+		<namespace prefix="foomos" uri="library://ns.foomo.org/flex/spark"/>
+	</namespaces>
+	<categories>
+		<category id="Foomo" label="Foomo" defaultExpand="false"/>
+	</categories>
+	<components>
+		<component name="CollapsiblePanel" namespace="foomo" category="Foomo" displayName="Collapsible Panel"/>
+	</components>
+</design>

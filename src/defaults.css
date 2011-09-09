@@ -1,0 +1,6 @@
+/* CSS file */
+@namespace foomos "library://ns.foomo.org/flex/spark";
+
+foomos|CollapsiblePanel {
+	skin-class: ClassReference('org.foomo.spark.skins.DefaultCollapsiblePanelSkin');
+}
